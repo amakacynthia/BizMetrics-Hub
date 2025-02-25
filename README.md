@@ -114,7 +114,7 @@ Descriptive analysis summarizes historical data to reveal key trends and pattern
     
 ![gender](https://github.com/user-attachments/assets/bc5fef39-822a-4f87-96c7-cdc290e27155)
     
-    The analysis of customer purchasing patterns by gender reveals that female customers make more purchases than male customers,with the female customers dominating with over **53.54%** than their male counterparts.
+The analysis of customer purchasing patterns by gender reveals that female customers make more purchases than male customers,with the female customers dominating with over **53.54%** than their male counterparts.
 
  * Payment Method Distribution:
    
