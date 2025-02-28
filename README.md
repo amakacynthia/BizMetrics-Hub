@@ -65,6 +65,8 @@ Text fields like Gender and Payment Method were standardized to maintain consist
 * Duplicate Removal:
 Duplicate records were identified and removed to ensure data integrity.
 
+DAX FUNCTIONS [HERE](https://docs.google.com/document/d/1K-CxnzoREqRwQhu7dp9e3DsZ2j7xaglTK4iBXzUo9-M/edit?usp=sharing)
+
 **These steps ensured that the dataset was reliable and ready for accurate analysis and visualization.**
 
 ## DATA ANALYSIS
