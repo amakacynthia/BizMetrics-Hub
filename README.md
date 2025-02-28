@@ -5,12 +5,12 @@
 
 ## TABLE OF CONTENT
 - [BIZMETRICS-HUB OVERVIEW](#bizmetrics-hub-overview)
-- [DATA DICTIONARY](#data-dictionary).
-- [DATA SOURCE](#data-source).
+- [DATA DICTIONARY](#data-dictionary)
+- [DATA SOURCE](#data-source)
 - [TOOLS](#tools)
-- [KEY PERFORMANCE INDICATORS](#key-performance-indicators).
-- [DATA CLEANING](#data-cleaning).
-- [DATA ANALYSIS](#data-analysis).
+- [KEY PERFORMANCE INDICATORS](#key-performance-indicators)
+- [DATA CLEANING](#data-cleaning)
+- [DATA ANALYSIS](#data-analysis)
 - [DESCRIPTIVE ANALYSIS 1](#descriptive-analysis-1)
 - [DESCRIPTIVE ANALYSIS 2](#descriptive-analysis-2)
 - [GENERAL DASHBOARD](#general-dashboard)
